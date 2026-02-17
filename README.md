@@ -6,9 +6,8 @@
 
 ## Технические навыки
 ### Frontend
-- **Библиотеки/Фреймворки:** React, Vue.js, Angular
-- **Основные технологии:** HTML5, CSS3 (Sass/SCSS), JavaScript (ES6+), TypeScript
-- **Инструменты:** Webpack, Vite, npm/yarn
+- **Библиотеки/Фреймворки:** React
+- **Основные технологии:** HTML5, JavaScript, TypeScript
 
 ### Backend
 - **Фреймворки Python:** Django, Django REST Framework (DRF), Flask, FastAPI
